@@ -1,7 +1,7 @@
 #  Hi, I'm Aditya Vishwakarma  
 🎓 **B.Tech ECE @ BIT Mesra** | **Full-Stack Developer** | 🎨 **UI/UX & Graphic Designer** | 🚀 **Product & Startup Builder**
 
- Portfolio •  [Email](mailto:adi.vish2931@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adivish2831/) • [X](https://x.com/Adi_vish28) X • 
+ Portfolio •  [Email](mailto:adi.vish2931@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adivish2831/) • [X](https://x.com/Adi_vish28)• 
 
 ---
 
@@ -67,9 +67,9 @@ I focus on **usability, visual clarity, system design, and performance**, and I 
 ---
 
 ## 📌 What I’m Currently Working On
-- Ss  
-- 🌱 Building **AI-powered products** in hiring, sustainability & forecasting  
-- ⚡ Developing **scalable full-stack applications** with clean architecture  
+-  **StackSync** — A high-performance knowledge aggregation engine utilizing vector embeddings for semantic data retrieval across distributed sources  
+-  **GitRewind** — A low-level version control utility designed for the algorithmic reconstruction and normalization of repository metadata  
+-  **ResQ AI** — An event-driven coordination platform leveraging geospatial analytics for dynamic resource allocation in high-latency environments   with clean architecture  
 
 ---
 
