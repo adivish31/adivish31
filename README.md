@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Aditya Vishwakarma  
-🎓 **B.Tech ECE @ BIT Mesra** | 💻 **Full-Stack Developer** | 🎨 **UI/UX & Graphic Designer** | 🚀 **Product & Startup Builder**
+#  Hi, I'm Aditya Vishwakarma  
+🎓 **B.Tech ECE @ BIT Mesra** | **Full-Stack Developer** | 🎨 **UI/UX & Graphic Designer** | 🚀 **Product & Startup Builder**
 
-🌐 Portfolio • 📧 Email • 💼 LinkedIn • 🐦 X • 📸 Instagram • 💬 Discord  
+ Portfolio •  [Email](mailto:adi.vish2931@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adivish2831/) • [X](https://x.com/Adi_vish28) X • 
 
 ---
 
-## 🚀 About Me
+## About Me
 I’m a **developer–designer hybrid** who builds **end-to-end digital products**—from ideation and wireframes to scalable backend systems and polished user interfaces.
 
 I focus on **usability, visual clarity, system design, and performance**, and I enjoy working on **startup ideas, AI-powered platforms, and real-world problem-solving products**.
@@ -67,7 +67,7 @@ I focus on **usability, visual clarity, system design, and performance**, and I 
 ---
 
 ## 📌 What I’m Currently Working On
-- 🎨 Designing **intuitive UI/UX systems** for web platforms  
+- Ss  
 - 🌱 Building **AI-powered products** in hiring, sustainability & forecasting  
 - ⚡ Developing **scalable full-stack applications** with clean architecture  
 
