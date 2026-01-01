@@ -1,7 +1,7 @@
 #  Hi, I'm Aditya Vishwakarma  
 🎓 **B.Tech ECE @ BIT Mesra** | **Full-Stack Developer** | 🎨 **UI/UX & Graphic Designer** | 🚀 **Product & Startup Builder** | 🤖🧠 **AI-ML Enthusiast**
 
- [Portfolio](https://www.adivish.tech) •  [Email](mailto:adi.vish2931@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adivish2831/) • [X](https://x.com/Adi_vish28)• 
+ [Portfolio](adivish.tech) •  [Email](mailto:adi.vish2931@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adivish2831/) • [X](https://x.com/Adi_vish28)• 
 
 ---
 
